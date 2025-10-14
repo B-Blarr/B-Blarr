@@ -1,4 +1,4 @@
-## 👋 Welcome! I’m Benjamin, currently on my journey to become a Full-Stack Developer with a growing passion for AI, problem-solving, and meaningful design.
+## 👋 Welcome! I am Benjamin, currently on my journey to become a Full-Stack Developer with a growing passion for AI, problem-solving, and meaningful design.
 
 <div align="center">
   <img height="200" src="https://www.dropbox.com/scl/fi/xsz569icjvfr8qnk2o2vx/Profile_img.jpg?rlkey=4t2am7uqiomg62t41hotaw29w&st=6y2cf7wa&raw=1"  />
