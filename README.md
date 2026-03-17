@@ -1,7 +1,7 @@
 ## 👋 Hello! I am Benjamin, currently on my journey to become a Full-Stack Developer with a growing passion for AI, problem-solving, and meaningful design.
 
 <div align="center">
-  <img height="200" src="https://www.dropbox.com/scl/fi/prmce4kuwhrm1md4e1juq/profile-picture.jpeg?rlkey=mxkfstvmrt5217xww33b0z1of&st=fpii405g&raw=1" />
+  <img height="300" src="https://www.dropbox.com/scl/fi/prmce4kuwhrm1md4e1juq/profile-picture.jpeg?rlkey=mxkfstvmrt5217xww33b0z1of&st=fpii405g&raw=1" />
 </div>
 
 ###
