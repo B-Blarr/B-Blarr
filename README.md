@@ -1,7 +1,7 @@
 ## 👋 Hi, I am Benjamin, a Fullstack Developer in training with a passion for clean code, analytical thinking and modern web technologies.
 
 <div align="center">
-  <img height="300" src="https://www.dropbox.com/scl/fi/prmce4kuwhrm1md4e1juq/profile-picture.jpeg?rlkey=mxkfstvmrt5217xww33b0z1of&st=fpii405g&raw=1" />
+  <img height="300" src="https://www.dropbox.com/scl/fi/h44de4ts3fz58ynq7kbxl/profile-picture-short.png?rlkey=kfydnfrp41ekmnvpihqq1whkc&st=cbrfr8qq&raw=1"/>
 </div>
 
 ###
