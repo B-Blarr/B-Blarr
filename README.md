@@ -24,11 +24,11 @@
 
 <h2>Backend</h2>
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" height="40" alt="Python"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&amp;logo=django&amp;logoColor=white" height="40" alt="Django"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/djangorest/djangorest-original.svg" height="40" alt="django rest framework logo"  />
+  <img src="https://img.shields.io/badge/Django%20REST-A30000?style=for-the-badge&amp;logo=django&amp;logoColor=white" height="40" alt="Django REST Framework"  />
   <img width="12" />
 </div>
 
