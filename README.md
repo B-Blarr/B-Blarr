@@ -51,10 +51,10 @@
 
 | Project | What it is | |
 |---|---|---|
-| **[Coderr Backend](https://github.com/B-Blarr/Coderr-Backend)** | REST API for a freelancer marketplace. Django REST Framework, token auth, role-based permissions, OpenAPI docs. Deployed on a VPS I set up and maintain myself. | [Live](https://coderr.benjaminblarr.de/) · [API docs](https://coderr.benjaminblarr.de/api/schema/swagger-ui/) |
+| **[Coderr&nbsp;Backend](https://github.com/B-Blarr/Coderr-Backend)** | REST API for a freelancer marketplace. Token auth, role-based permissions, OpenAPI docs. Runs on a VPS I set up and maintain myself. | [Live](https://coderr.benjaminblarr.de/)&nbsp;·&nbsp;[Docs](https://coderr.benjaminblarr.de/api/schema/swagger-ui/) |
 | **[Portfolio](https://github.com/B-Blarr/Portfolio)** | Bilingual single-page portfolio in Angular, with a contact form served by a Django endpoint. | [Live](https://benjaminblarr.de/) |
 | **[Join](https://github.com/B-Blarr/Join)** | Kanban task manager with drag and drop. Team project with four developers, Angular and Supabase. | [Live](https://benjaminblarr.de/join/) |
-| **[El Pollo Loco](https://github.com/B-Blarr/El-Pollo-Loco)** | Side-scrolling browser game, object-oriented, no framework. | [Live](https://benjaminblarr.de/el-pollo-loco/) |
+| **[El&nbsp;Pollo&nbsp;Loco](https://github.com/B-Blarr/El-Pollo-Loco)** | Side-scrolling browser game, object-oriented, no framework. | [Live](https://benjaminblarr.de/el-pollo-loco/) |
 
 ###
 
