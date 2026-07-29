@@ -1,71 +1,19 @@
-## 👋 Hi, I am Benjamin, a Fullstack Developer with a passion for clean code, analytical thinking and modern web technologies.
+👋 Hi, I am Benjamin, a Fullstack Developer with a passion for clean code, analytical thinking and modern web technologies.
+<div align="center"> <img height="300" src="https://www.dropbox.com/scl/fi/h44de4ts3fz58ynq7kbxl/profile-picture-short.png?rlkey=kfydnfrp41ekmnvpihqq1whkc&st=cbrfr8qq&raw=1"/> </div>
+<h2>Frontend</h2> <div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="angular logo" /> <img width="12" /> </div> <h2>Backend</h2> <div> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/B-Blarr/B-Blarr@main/assets/django.svg" height="40" alt="django logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/B-Blarr/B-Blarr@main/assets/drf.svg?v=2" height="40" alt="django rest framework logo" /> <img width="12" /> </div> <div> <h2>Dev-Tools</h2> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vs code logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" alt="supabase logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-original.svg" height="40" alt="trello logo" /> <img width="12" /> </div>
+Selected Projects
+Project	What it is	
+Coderr Backend	REST API for a freelancer marketplace. Django REST Framework, token auth, role-based permissions, OpenAPI docs. Deployed on a VPS I set up and maintain myself.	Live · API docs
+Portfolio	Bilingual single-page portfolio in Angular, with a contact form served by a Django endpoint.	Live
+Join	Kanban task manager with drag and drop. Team project with four developers, Angular and Supabase.	Live
+El Pollo Loco	Side-scrolling browser game, object-oriented, no framework.	Live
+Get in touch
+<div align="left"> <a href="https://www.linkedin.com/in/benjamin-blarr-5378a83b1/" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" /> </a> </div>
 
-<div align="center">
-  <img height="300" src="https://www.dropbox.com/scl/fi/h44de4ts3fz58ynq7kbxl/profile-picture-short.png?rlkey=kfydnfrp41ekmnvpihqq1whkc&st=cbrfr8qq&raw=1"/>
-</div>
+Portfolio: benjaminblarr.de
 
-###
-<h2>Frontend</h2>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-    <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-
-</div>
-
-<h2>Backend</h2>
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/B-Blarr/B-Blarr@main/assets/django.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/B-Blarr/B-Blarr@main/assets/drf.svg?v=2" height="40" alt="django rest framework logo"  />
-  <img width="12" />
-</div>
-
-
-<div>
-<h2>Dev-Tools</h2>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/B-Blarr/B-Blarr/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/B-Blarr/B-Blarr/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/B-Blarr/B-Blarr/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-<!-- 
-<div align="left">
-  <a href="https://de.linkedin.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
--->
-###
-<!--
-**B-Blarr/B-Blarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/B-Blarr/B-Blarr/output/pacman-contribution-graph-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/B-Blarr/B-Blarr/output/pacman-contribution-graph.svg"> <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/B-Blarr/B-Blarr/output/pacman-contribution-graph.svg"> </picture>
+<!-- **B-Blarr/B-Blarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
 
