@@ -1,4 +1,5 @@
 ## 👋 Hi, I am Benjamin, a Fullstack Developer with a passion for clean code, analytical thinking and modern web technologies.
+
 <div align="center">
   <img height="300" src="https://www.dropbox.com/scl/fi/h44de4ts3fz58ynq7kbxl/profile-picture-short.png?rlkey=kfydnfrp41ekmnvpihqq1whkc&st=cbrfr8qq&raw=1"/>
 </div>
@@ -58,13 +59,6 @@
 | **[Join](https://github.com/B-Blarr/Join)** | Kanban task manager with drag and drop. Team project with four developers, Angular and Supabase. | [Live](https://benjaminblarr.de/join/) |
 | **[El&nbsp;Pollo&nbsp;Loco](https://github.com/B-Blarr/El-Pollo-Loco)** | Side-scrolling browser game, object-oriented, no framework. | [Live](https://benjaminblarr.de/el-pollo-loco/) |
 
-###
-
-
-## Get in touch
-
-[LinkedIn](https://www.linkedin.com/in/benjamin-blarr-5378a83b1/) · [benjaminblarr.de](https://benjaminblarr.de/)
-
 
 ###
 
@@ -74,7 +68,16 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/B-Blarr/B-Blarr/output/pacman-contribution-graph.svg">
 </picture>
 
+
 ###
+
+
+## Get in touch
+
+Feel free to reach out about projects, collaboration or open positions.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benjamin-blarr-5378a83b1/)
+[![Portfolio](https://img.shields.io/badge/benjaminblarr.de-3DCFB6?style=for-the-badge&logoColor=white)](https://benjaminblarr.de/)
 
 <!--
 **B-Blarr/B-Blarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
