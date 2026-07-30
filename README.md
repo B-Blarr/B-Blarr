@@ -76,9 +76,9 @@
 
 Feel free to reach out about projects, collaboration or open positions.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benjamin-blarr-5378a83b1/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-11806E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://benjaminblarr.de/)
-[![Message me](https://img.shields.io/badge/Message%20me-4B5563?style=for-the-badge&logo=minutemailer&logoColor=white)](https://benjaminblarr.de/#contact-section)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/benjamin-blarr-5378a83b1/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-11806E?style=for-the-badge)](https://benjaminblarr.de/)
+[![Message me](https://img.shields.io/badge/Message%20me-4B5563?style=for-the-badge)](https://benjaminblarr.de/#contact-section)
 
 <!--
 **B-Blarr/B-Blarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
