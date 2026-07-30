@@ -33,7 +33,7 @@ jobs:
           # der Push-Schritt scheitert dann mit "Build dir does not exist".
           games: pacman
           # Nur fuer Pacman: opportunistic (Standard), conservative, aggressive
-          # player_style: opportunistic
+          player_style: conservative
 
 
       - name: push the generated graph to the output branch
