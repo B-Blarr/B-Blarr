@@ -30,6 +30,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/B-Blarr/B-Blarr@main/assets/drf.svg?v=2" height="40" alt="django rest framework logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" alt="supabase logo"  />
+  <img width="12" />
 </div>
 
 <div>
@@ -41,8 +43,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" alt="supabase logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
@@ -57,9 +57,10 @@
 | Project | What it is | |
 |---|---|---|
 | **[Coderr&nbsp;Backend](https://github.com/B-Blarr/Coderr-Backend)** | REST API for a freelancer marketplace. Token auth, role-based permissions, OpenAPI docs. Runs on a VPS I set up and maintain myself. | [Live](https://coderr.benjaminblarr.de/)&nbsp;·&nbsp;[Docs](https://coderr.benjaminblarr.de/api/schema/swagger-ui/) |
+| **[Videoflix&nbsp;Backend](https://github.com/B-Blarr/Videoflix-Backend)** | Streaming backend. Uploads are converted to HLS in three resolutions by background workers, using Redis and Django RQ. | Frontend in progress |
+| **[Quizly&nbsp;Backend](https://github.com/B-Blarr/Quizly-Backend)** | Turns a YouTube video into a quiz. Audio via yt-dlp, transcription with Whisper on the server, questions from the Gemini API. | |
 | **[Portfolio](https://github.com/B-Blarr/Portfolio)** | Bilingual single-page portfolio in Angular, with a contact form served by a Django endpoint. | [Live](https://benjaminblarr.de/) |
 | **[Join](https://github.com/B-Blarr/Join)** | Kanban task manager with drag and drop. Team project with four developers, Angular and Supabase. | [Live](https://benjaminblarr.de/join/) |
-| **[El&nbsp;Pollo&nbsp;Loco](https://github.com/B-Blarr/El-Pollo-Loco)** | Side-scrolling browser game, object-oriented, no framework. | [Live](https://benjaminblarr.de/el-pollo-loco/) |
 
 
 ###
