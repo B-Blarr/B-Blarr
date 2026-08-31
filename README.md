@@ -57,7 +57,7 @@
 | Project | What it is | |
 |---|---|---|
 | **[Coderr&nbsp;Backend](https://github.com/B-Blarr/Coderr-Backend)** | REST API for a freelancer marketplace. Token auth, role-based permissions, OpenAPI docs. Runs on a VPS I set up and maintain myself. | [Live](https://coderr.benjaminblarr.de/)&nbsp;·&nbsp;[Docs](https://coderr.benjaminblarr.de/api/schema/swagger-ui/) |
-| **[Videoflix&nbsp;Backend](https://github.com/B-Blarr/Videoflix-Backend)** | Streaming backend. Uploads are converted to HLS in three resolutions by background workers, using Redis and Django RQ. | Frontend in progress |
+| **[Videoflix&nbsp;Backend](https://github.com/B-Blarr/Videoflix-Backend)** | Streaming backend. Uploads are converted to HLS in three resolutions by background workers, using Redis and Django RQ. | *Frontend in progress* |
 | **[Quizly&nbsp;Backend](https://github.com/B-Blarr/Quizly-Backend)** | Turns a YouTube video into a quiz. Audio via yt-dlp, transcription with Whisper on the server, questions from the Gemini API. | |
 | **[Portfolio](https://github.com/B-Blarr/Portfolio)** | Bilingual single-page portfolio in Angular, with a contact form served by a Django endpoint. | [Live](https://benjaminblarr.de/) |
 | **[Join](https://github.com/B-Blarr/Join)** | Kanban task manager with drag and drop. Team project with four developers, Angular and Supabase. | [Live](https://benjaminblarr.de/join/) |
