@@ -1,7 +1,7 @@
 ## 👋 Hi, I am Benjamin, a Fullstack Developer with a passion for clean code, analytical thinking and modern web technologies.
 
 <div align="center">
-  <img height="300" src="https://www.dropbox.com/scl/fi/h44de4ts3fz58ynq7kbxl/profile-picture-short.png?rlkey=kfydnfrp41ekmnvpihqq1whkc&st=cbrfr8qq&raw=1"/>
+  <img height="300" src="https://cdn.jsdelivr.net/gh/B-Blarr/B-Blarr@main/assets/profile.jpeg"/>
 </div>
 
 ###
