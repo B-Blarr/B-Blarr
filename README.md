@@ -78,7 +78,7 @@
 
 Feel free to reach out about projects, collaboration or open positions.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/benjamin-blarr-5378a83b1/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/benjaminblarr/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-11806E?style=for-the-badge)](https://benjaminblarr.de/)
 [![Message me](https://img.shields.io/badge/Message%20me-4B5563?style=for-the-badge)](https://benjaminblarr.de/#contact-section)
 
