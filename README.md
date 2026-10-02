@@ -78,10 +78,19 @@
 --- 
 
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/B-Blarr/B-Blarr/output-3d-contrib/3d-contrib-dark.svg">
+  <img alt="3D contribution calendar" src="https://raw.githubusercontent.com/B-Blarr/B-Blarr/output-3d-contrib/3d-contrib-light.svg">
+</picture>
+
+<!--
+Pac-Man (Stand bis Oktober 2026). Zum Zurueckwechseln diesen Block statt des 3D-Kalenders einsetzen
+und in .github/workflows/pacman.yml den Zeitplan wieder einschalten.
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/B-Blarr/B-Blarr/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/B-Blarr/B-Blarr/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/B-Blarr/B-Blarr/output/pacman-contribution-graph.svg">
 </picture>
+-->
 
 
 ## Get in touch
