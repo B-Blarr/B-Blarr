@@ -38,7 +38,7 @@
 
 <h2>AI</h2>
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/B-Blarr/B-Blarr@main/assets/rag.svg" height="40" alt="rag logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/B-Blarr/B-Blarr@main/assets/rag2.svg" height="40" alt="rag logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/B-Blarr/B-Blarr@main/assets/claude.svg" height="40" alt="claude logo"  />
   <img width="12" />
