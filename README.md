@@ -10,8 +10,6 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
   <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -38,11 +36,19 @@
   <img width="12" />
 </div>
 
+<h2>AI</h2>
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/B-Blarr/B-Blarr@main/assets/rag.svg" height="40" alt="rag logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/B-Blarr/B-Blarr@main/assets/claude.svg" height="40" alt="claude logo"  />
+  <img width="12" />
+</div>
+
 <div>
 <h2>Dev-Tools</h2>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vs code logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="40" alt="github actions logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
@@ -51,8 +57,6 @@
   <img src="https://cdn.jsdelivr.net/gh/B-Blarr/B-Blarr@main/assets/nginx.svg" height="40" alt="nginx logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-original.svg" height="40" alt="trello logo"  />
   <img width="12" />
 </div>
 
@@ -91,6 +95,3 @@ Feel free to reach out about projects, collaboration or open positions.
 <!--
 **B-Blarr/B-Blarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-
-
