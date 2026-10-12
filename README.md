@@ -68,7 +68,7 @@
 
 | Project | What it is | |
 |---|---|---|
-| **[Cardelia](https://benjaminblarr.de/cardelia/)** | Collection manager for Pokémon cards: around 77,000 cards in four languages with prices from several sources. Django backend on Fly.io with a Supabase database. Private repository, built on my own. | [Architecture](https://benjaminblarr.de/cardelia/)&nbsp;*(German)* |
+| **[Cardelia](https://benjaminblarr.de/cardelia/)** | Collection manager for Pokémon cards: over 78,000 cards in four languages with daily prices from several sources. Django backend on Fly.io with a Supabase database. Private repository, built on my own. | [Demo](https://cardelia.de/demo?von=github)&nbsp;·&nbsp;[Architecture](https://benjaminblarr.de/cardelia/)&nbsp;*(German)* |
 | **[Coderr&nbsp;Backend](https://github.com/B-Blarr/Coderr-Backend)** | REST API for a freelancer marketplace. Token auth, role-based permissions, OpenAPI docs. Runs on a VPS I set up and maintain myself. | [Live](https://coderr.benjaminblarr.de/)&nbsp;·&nbsp;[Docs](https://coderr.benjaminblarr.de/api/schema/swagger-ui/) |
 | **[Videoflix](https://github.com/B-Blarr/Videoflix)** | Streaming backend. Uploads are converted to HLS in three resolutions by background workers, using Redis and Django RQ. | *Frontend in progress* |
 | **[Quizly&nbsp;Backend](https://github.com/B-Blarr/Quizly-Backend)** | Turns a YouTube video into a quiz. Audio via yt-dlp, transcription with Whisper on the server, questions from the Gemini API. | |
