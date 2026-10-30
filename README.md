@@ -38,11 +38,13 @@
   <img width="12" />
 </div>
 
-<h2>AI</h2>
+<h2>AI & Automation</h2>
 <div>
   <img src="assets/rag2.svg" height="40" alt="rag logo"  />
   <img width="12" />
   <img src="assets/claude.svg" height="40" alt="claude logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/n8n/n8n-original.svg" height="40" alt="n8n logo"  />
   <img width="12" />
 </div>
 
