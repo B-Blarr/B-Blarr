@@ -38,11 +38,13 @@
   <img width="12" />
 </div>
 
-<h2>AI</h2>
+<h2>AI & Automation</h2>
 <div>
   <img src="assets/rag2.svg" height="40" alt="rag logo"  />
   <img width="12" />
   <img src="assets/claude.svg" height="40" alt="claude logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/n8n/n8n-original.svg" height="40" alt="n8n logo"  />
   <img width="12" />
 </div>
 
@@ -68,10 +70,11 @@
 
 | Project | What it is | |
 |---|---|---|
-| **[Cardelia](https://benjaminblarr.de/cardelia/)** | Collection manager for Pokémon cards: around 80,000 cards in four languages with daily prices from several sources. Django backend on Fly.io with a Supabase database. Private repository, built on my own. | [Demo](https://cardelia.de/demo?von=github)&nbsp;·&nbsp;[Architecture](https://benjaminblarr.de/cardelia/)&nbsp;*(German)* |
+| **[Cardelia](https://benjaminblarr.de/cardelia/)** | Collection manager for Pokémon cards: around 80,000 cards in four languages with daily prices from several sources. Django backend on Fly.io with a Supabase database. Private repository, built on my own. | [Demo](https://cardelia.de/demo?von=github)&nbsp;·&nbsp;[Architecture](https://benjaminblarr.de/cardelia/)&nbsp; |
+| **[Voice&nbsp;Agent&nbsp;Hotel](https://github.com/B-Blarr/Voice-Agent-Hotel)** | AI phone receptionist for a fictional hotel. Answers calls in German and uses tool calling to check free rooms and prices through n8n webhooks and PostgreSQL. Booking and callback requests go straight to the team by email. Self-hosted with Docker and Nginx. | [Architecture](https://github.com/B-Blarr/Voice-Agent-Hotel#architecture) |
 | **[Coderr&nbsp;Backend](https://github.com/B-Blarr/Coderr-Backend)** | REST API for a freelancer marketplace. Token auth, role-based permissions, OpenAPI docs. Runs on a VPS I set up and maintain myself. | [Live](https://coderr.benjaminblarr.de/)&nbsp;·&nbsp;[Docs](https://coderr.benjaminblarr.de/api/schema/swagger-ui/) |
-| **[Videoflix](https://github.com/B-Blarr/Videoflix)** | Streaming backend. Uploads are converted to HLS in three resolutions by background workers, using Redis and Django RQ. | *Frontend in progress* |
-| **[Quizly&nbsp;Backend](https://github.com/B-Blarr/Quizly-Backend)** | Turns a YouTube video into a quiz. Audio via yt-dlp, transcription with Whisper on the server, questions from the Gemini API. | |
+| **[Videoflix](https://github.com/B-Blarr/Videoflix)** | Streaming backend. Uploads are converted to HLS in three resolutions by background workers, using Redis and Django RQ. | [Architecture](https://github.com/B-Blarr/Videoflix#architecture)&nbsp;·&nbsp;*Frontend in progress* |
+| **[Quizly&nbsp;Backend](https://github.com/B-Blarr/Quizly-Backend)** | Turns a YouTube video into a quiz. Audio via yt-dlp, transcription with Whisper on the server, questions from the Gemini API. | [Architecture](https://github.com/B-Blarr/Quizly-Backend#architecture) |
 | **[Portfolio](https://github.com/B-Blarr/Portfolio)** | Bilingual single-page portfolio in Angular, with an AI assistant that answers questions about me from my own knowledge base (RAG with pgvector and the Claude API). | [Live](https://benjaminblarr.de/) |
 | **[Join](https://github.com/B-Blarr/Join)** | Kanban task manager with drag and drop. Team project with four developers, Angular and Supabase. | [Live](https://benjaminblarr.de/join/) |
 
